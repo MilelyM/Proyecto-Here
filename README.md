@@ -1,4 +1,4 @@
-# Proyecto Laboratoria HERE: Eco Go!
+# Eco Go!
 
 Eco go! Es una aplicación  web que incentiva a las personas a reciclar. Y las ayuda a encontrar “Eco go! Puntos”, por medio del GPS y del mapa de HERE.
  ¿Qué son los “Eco Go! Puntos”?
