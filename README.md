@@ -1,12 +1,19 @@
-## Proyecto Laboratoria – HERE: Eco Go!
-<p align="center">
-  <img src="https://github.com/Carolinadelb/Proyecto-Here/blob/master/assets/img/logo.png" height="100" width="100">
-</p>
+# Proyecto Laboratoria – HERE: Eco Go!
 
 Eco go! Es una aplicación  web que incentiva a las personas a reciclar. Y las ayuda a encontrar “Eco go! Puntos”, por medio del GPS y del mapa de HERE.
  ¿Qué son los “Eco Go! Puntos”?
 Son lugares establecidos para reciclar: Cartón, vidrio, plástico y tetra.
-Estos puntos están marcados en el mapa de la aplicación, cada vez que vayas y saques una foto reciclando, ¡ganarás puntos!. Estos puntos pueden ser cambiados por productos o descuentos en tiendas. 
+Estos puntos están marcados en el mapa de la aplicación, cada vez que vayas y saques una foto reciclando, ¡ganarás puntos!. Estos puntos pueden ser cambiados por productos o descuentos en tiendas.
+
+![Eco-go](https://user-images.githubusercontent.com/39282714/47371580-76333d80-d6be-11e8-9f09-975a9dde4547.jpeg)
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
+<p align="center">
+  <img src="https://github.com/Carolinadelb/Proyecto-Here/blob/master/assets/img/logo.png" height="100" width="100">
+</p>
+
+
 
 ### Contexto
 
